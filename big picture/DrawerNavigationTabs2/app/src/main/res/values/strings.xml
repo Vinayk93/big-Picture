@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BigPicture</string>
+    <string name="setting">Settings</string>
+    <string name="contact">Contact us</string>
+    <string name="about">About</string>
+    <string name="search">search</string>
+    <string-array name="drawer_titles">
+        <item>Home</item>
+        <item>Hollywood</item>
+        <item>Bollywood</item>
+        <item>Tollywood</item>
+        <item>News</item>
+        <item>Share</item>
+        <item>Rate us</item>
+
+
+
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_item_one">ItemOne</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="title_activity_tabbed">TabbedActivity</string>
+
+</resources>
